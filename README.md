@@ -1,6 +1,6 @@
 # DS Meta
 
-Aplicação **full stack** desenvolvida no bootcamp **DevSuperior** (prof. Nélio Alves).  
+Aplicação **full stack** desenvolvida no bootcamp **DevSuperior** 
 O projeto consiste em um **backend Spring Boot** e um **frontend React (Vite + TypeScript)** para consultar um relatório de **vendas** por período e enviar **notificações via SMS** (Twilio).
 
 > Observação: este repositório foi originalmente publicado no **Heroku (plano gratuito)**. Como o plano gratuito foi descontinuado, a aplicação não está mais online. O código continua pronto para rodar localmente e pode ser implantado em qualquer plataforma que suporte Java/Node (Heroku, Render, Railway, etc.).
