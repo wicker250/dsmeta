@@ -1,5 +1,10 @@
 # DS Meta
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+
 Aplicação **full stack** desenvolvida no bootcamp **DevSuperior** 
 O projeto consiste em um **backend Spring Boot** e um **frontend React (Vite + TypeScript)** para consultar um relatório de **vendas** por período e enviar **notificações via SMS** (Twilio).
 
